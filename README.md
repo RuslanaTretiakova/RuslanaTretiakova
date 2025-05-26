@@ -8,6 +8,6 @@
 
 
 ## My Skills and Tools: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,vscode,vite,webpack,bootstrap,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,git,vscode,vite,webpack,redux,pinia,vitest,vuetify)](https://skillicons.dev)
 
 
