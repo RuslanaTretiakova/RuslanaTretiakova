@@ -5,7 +5,7 @@
 
 ### 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-tretiakovaruslana7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tretiakovaruslana7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tretiakovaruslana7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tretiakovaruslana7@gmail.com?subject=Hello%20Ruslana)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-@TretiakovaRuslana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TretiakovaRuslana)
